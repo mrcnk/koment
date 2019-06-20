@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700&display=swap');
+
+:host {
+  font-family: 'Muli';
+  font-size: 1rem;
+  color: #262626;
+}

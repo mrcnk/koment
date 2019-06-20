@@ -1,0 +1,24 @@
+.k-comment-header {
+  display: flex;
+  width: 100%;
+}
+
+.k-comment-header__avatar {
+  flex: 1;
+  margin-right: .5rem;
+}
+
+.k-comment-header__meta {
+  flex: 11;
+  margin: 0 .5rem;
+}
+
+.k-comment-header__meta .name {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.k-comment-header__meta .time {
+  font-size: .75rem;
+  margin-top: .125rem;
+}

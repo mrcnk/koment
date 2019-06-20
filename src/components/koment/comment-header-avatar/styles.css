@@ -1,0 +1,15 @@
+.k-header-avatar {
+  display: flex;
+  background-color: blue;
+  width: 2.5rem;
+  height: 2.5rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-size: .75rem;
+  font-weight: bold;
+}
+
+.k-header-avatar__initials {
+  color: #ffffff;
+}
